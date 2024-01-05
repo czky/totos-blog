@@ -1,0 +1,74 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+  <style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
+
+body, p {
+  text-align: justify;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto Mono", sans-serif;
+}
+
+a {
+  color: rgba(61, 31, 94, 0.5);
+}
+
+a:hover {
+  color: rgba(61, 31, 94, 0.9);
+}
+
+/* Footer */
+.social-links {
+  text-align: center;
+  margin-top: 10px;
+}
+.social-links a {
+  color: rgba(137, 160, 204, 1);
+  font-size: 30px;
+  margin: 0 10px;
+}
+.social-links a:hover {
+  color: rgba(72,49,109,255);
+}
+
+/* Header */
+.site-title {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* Posts */
+.post-header, .post-meta {
+  font-family: "Roboto Mono", sans-serif;
+}
+
+/* RSS */
+.rss-subscribe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  padding: 10px;
+}
+.rss-subscribe a {
+  padding-left: 4px;
+}
+
+
+/* Titles in posts */
+.post-title {
+  color: rgba(137, 160, 204, 1);
+}
+  </style>
+</head>
