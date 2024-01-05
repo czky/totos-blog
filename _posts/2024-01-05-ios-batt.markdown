@@ -3,7 +3,7 @@ layout: post
 title:  "Settings for better battery on iPhone"
 date:   2024-01-05 11:49:39 +0200
 categories: jekyll update
-author: "Toto"
+author: "Thomas-Andrei Zareczky"
 ---
 
 ## Introduction
