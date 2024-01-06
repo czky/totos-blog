@@ -15,8 +15,8 @@ Even though *privacy* can go hand inhand with *anonymity* and *security*, we can
 - Security is the **trust** you put into the applications you use and into the **parties** that *say* they will keep those applications **safe**. (eg. [HTTPS](https://en.wikipedia.org/wiki/HTTPS))
 
 ## Control = Privacy?
-Yes and no. It sounds simple and appealing (*maybe too simple*) but it doesn't really work in practice.
-Let's do a simple imagination exercise.
+**Yes and no**. It sounds simple and appealing (*maybe too simple*) but it doesn't really work in practice.
+Let's do a *simple imagination exercise*:
 - You enter on a website,
 - One little cute pop-up shows up,
 - You read it,
@@ -35,5 +35,5 @@ As we talk about privacy, there are also **rules**, like the [GDPR](https://gdpr
 In the end, making privacy simple means finding the balance between **making things easy to understand** (*like my blog, hopefully*) and **giving control to users**. Everyone needs to work together to make sure privacy is seen as a **must-have** and a **basic and clear part** of our digital world.
 
 ## Sources
-[The New Oil - Why Privacy & Security Matter](https://thenewoil.org/en/guides/prologue/why/)
-[Why Privacy Matters](https://www.amazon.com/Why-Privacy-Matters-Neil-Richards/dp/0190939044)
+- [The New Oil - Why Privacy & Security Matter](https://thenewoil.org/en/guides/prologue/why/)
+- [Why Privacy Matters](https://www.amazon.com/Why-Privacy-Matters-Neil-Richards/dp/0190939044)
