@@ -2,6 +2,7 @@
 layout: page
 title: About me
 permalink: /about/
+
 ---
 
 <img src="{{ "/photos/me.png" | absolute_url }}" style="float: right; margin: 0 0 50px 50px;" width="200" height="200">
